@@ -1,11 +1,5 @@
 ### Hi there 👋
-I'm a Python/JS Full Stack Web Developer
-side_sticker
 
-🌱 I'm majoring in Informatics at New Bulgarian University
-💻 Currently working as Full Stack Developer at DevPunks
-👨‍🏫 I'm a lecturer at Softuni and New Bulgarian University
-⚡ Fun fact: I love to play guitar and solve rubik's cube
 
 <!--
 **Todor-Gatev/Todor-Gatev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
