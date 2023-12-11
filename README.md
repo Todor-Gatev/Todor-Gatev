@@ -3,7 +3,7 @@ Hi 👋 My name is Todor Gatev
 
 * 🌍  I'm based in Plovdiv
 * 🧠  I'm learning Django
-* 🤝  I'm open to collaborating on interesting projects
+* 🤝  I'm open to collaborating on projects
 * ⚡  I love jokes and good sense of humor
 
 ### Skills
