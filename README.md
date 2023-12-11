@@ -27,7 +27,7 @@ Hi 👋 My name is Todor Gatev
 
 
 
-  <object href="https://github.com/Todor-Gatev/Python-OOP-Oct_2023/blob/master/SoftUni_certificates/Python%20OOP%20-%20October%202023%20-%20Certificate.pdf" width="36" height="36" type="aplication/pdf"><object>
+  <https://docs.google.com/viewer?url=https://github.com/Todor-Gatev/Python-OOP-Oct_2023/blob/master/SoftUni_certificates/Python%20OOP%20-%20October%202023%20-%20Certificate.pdf width="36" height="36" type="aplication/pdf"><object>
 
 
 <!--
