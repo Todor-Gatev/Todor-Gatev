@@ -20,6 +20,12 @@ Hi 👋 My name is Todor Gatev
   <img src="https://github.com/Todor-Gatev/Python-OOP-Oct_2023/blob/master/SoftUni_certificates/Python%20OOP-0.gif" width="100"/>
 
   <img src="https://github.com/Todor-Gatev/Python-OOP-Oct_2023/blob/master/SoftUni_certificates/Python%20OOP-1.gif" width="100"/>
+
+  <img src="https://github.com/Todor-Gatev/Python-OOP-Oct_2023/blob/master/SoftUni_certificates/Python%20Advanced-0.gif" width="100"/>
+
+  <img src="https://github.com/Todor-Gatev/Python-OOP-Oct_2023/blob/master/SoftUni_certificates/Python%20Advanced-1.gif" width="100"/>
+
+  <img src="https://github.com/Todor-Gatev/Python-OOP-Oct_2023/blob/master/SoftUni_certificates/Python%20Fundamentals.gif" width="100"/>
 </div>
 
 
