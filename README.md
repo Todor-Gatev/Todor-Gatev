@@ -1,4 +1,17 @@
-### Hi there 👋
+Hi 👋 My name is Todor Gatev
+============================
+
+* 🌍  I'm based in Plovdiv
+* 🧠  I'm learning Django
+* 🤝  I'm open to collaborating on interesting projects
+* ⚡  I love jokes and good sense of humor
+
+### Skills
+
+
+<p align="left">
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
+</p>
 
 
 <!--
